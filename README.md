@@ -100,7 +100,7 @@ src/
 
 ## Deployment
 The project is deployed on **Netlify**:
-- Live Demo: https://wisdom-peak-analytics.netlify.app/
+- Live Demo: https://wisdom-peak-analyrics.netlify.app/
 
 ---
 
